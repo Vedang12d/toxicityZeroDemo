@@ -1,3 +1,3 @@
 # Toxicity Discord Bot Demo
 
-! (botdemo1.png)
+To detect toxicity in a discord server
